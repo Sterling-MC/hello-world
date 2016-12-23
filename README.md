@@ -1,4 +1,4 @@
 # hello-world
-hello world repo
+just a useless repo
 
 Hello world!  I made a change.
